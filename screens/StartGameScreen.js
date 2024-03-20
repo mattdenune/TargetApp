@@ -27,12 +27,12 @@ export default StartGameScreen;
 
 const styles = StyleSheet.create({
   inputContainer: {
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
     marginTop: 100,
     marginHorizontal: 24,
     padding: 16,
-    backgroundColor: "#43e029",
+    backgroundColor: "#3b021f",
     borderRadius: 8,
     elevation: 4,
     shadowColor: "black",
@@ -52,9 +52,9 @@ const styles = StyleSheet.create({
     textAlign: "center",
   },
   buttonsContainer: {
-    flexDirection: 'row',
+    flexDirection: "row",
   },
   buttonContainer: {
     flex: 1,
-  }
+  },
 });
